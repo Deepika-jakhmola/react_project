@@ -1,2 +1,1 @@
-# react_project
-Weather widget
+This project is a simple weather widget built using React.js. It provides a user-friendly interface for displaying current weather information for a specified location. With intuitive design and easy integration, this weather widget can be seamlessly incorporated into any web application or website, offering visitors instant access to weather updates.
